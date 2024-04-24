@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
 
-Welcome to my GitHub profile, where I share my projects, contributions, and explorations!
+
 
 🌟 I'm currently an intern at Meltwater, in Solutions Engineering Team.
 🎓 I'm pursuing [Your Degree/Major] at [Your University/College], with a keen interest in [Mention your areas of interest or expertise].
