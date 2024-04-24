@@ -1,9 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=50&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Shreyas!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=40&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Shreyas!+👋)](https://git.io/typing-svg)
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+I'm passionate about web development and mobile app development. Welcome to my GitHub profile, where I share my projects, contributions, and explorations!
 <!--
 **shreyas-cs-mw/shreyas-cs-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
