@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=50&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Shreyas!+👋)](https://git.io/typing-svg)
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
