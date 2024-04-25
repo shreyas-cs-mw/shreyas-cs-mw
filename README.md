@@ -9,7 +9,7 @@ Welcome to my GitHub profile, where I share my projects, contributions, and expl
 
 🌟 I'm currently a Solutions Engineer intern at Meltwater. <br>
 🎓 I'm pursuing Masters in Computer Applications at BMSCE, with a keen interest in web and mobile application development. <br>
-🌱 I'm constantly learning and exploring new technologies and methodologies. <br>``
+🌱 I'm constantly learning and exploring new technologies and methodologies. <br>
 <!--
 **shreyas-cs-mw/shreyas-cs-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
