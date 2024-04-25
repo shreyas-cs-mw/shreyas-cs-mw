@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile, where I share my projects, contributions, and explorations!
 
-🌟 I'm currently a Solutions Engineer intern at Meltwater. <br>
+🌟 I'm currently a Solutions Engineer Intern at Meltwater. <br>
 🎓 I'm pursuing Masters in Computer Applications at BMSCE, with a keen interest in web and mobile application development. <br>
 🌱 I'm constantly learning and exploring new technologies and methodologies. <br>
 <!--
