@@ -3,10 +3,10 @@
 Welcome to my GitHub profile, where I share my projects, contributions, and explorations!
 
 ### My GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=shreyas-cs-mw&theme=react&show_icons=true&hide_border=true&count_private=true" alt="shreyas-cs-mw's GitHub Stats" />
+![shreyas-cs-mw's Stats](https://github-readme-stats.vercel.app/api?username=shreyas-cs-mw&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 ### Streak:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-cs-mw&theme=react&hide_border=true" alt="shreyas-cs-mw's GitHub Stats" />
+![shreyas-cs-mw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyas-cs-mw&theme=react&hide_border=true)
 <!--
 **shreyas-cs-mw/shreyas-cs-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
