@@ -7,6 +7,12 @@ Welcome to my GitHub profile, where I share my projects, contributions, and expl
 
 ### Streak:
 ![shreyas-cs-mw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyas-cs-mw&theme=react&hide_border=true)
+
+### Profile Visits:
+ <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<shreyas-cs-mw>"/>  
+    </div>
 <!--
 **shreyas-cs-mw/shreyas-cs-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
